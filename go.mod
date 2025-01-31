@@ -1,4 +1,4 @@
-module chzzk-sdk-golang
+module main
 
 go 1.23
 
