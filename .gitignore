@@ -28,4 +28,4 @@ go.work.sum
 *.db
 
 # IDE file
-.idea/
+.idea
